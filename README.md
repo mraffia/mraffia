@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mraffia
 - 👀 I’m interested in Web Development, Information Security
-- 🌱 I’m currently learning and reviewing Fullstack Web Development [React, Node.js]
+- 🌱 I’m currently learning and reviewing Fullstack Web Development [React, Node.js, Express]
 - 📫 How to reach me: mohraffia@gmail.com or https://www.linkedin.com/in/mraffia/
