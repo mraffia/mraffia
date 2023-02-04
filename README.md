@@ -6,6 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mraffia/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mraffia)
 
+- 👀 I am interested in Web Development
 - 🔭 My favourite projects completed: [Where's Waldo](https://github.com/drenchoman/express_members_only), [Blog API](https://blog-client-zeta.vercel.app/), and [CV Generator App](https://github.com/drenchoman/Delayed-Messaging)
 - 📫 How to reach me: mohraffia@gmail.com 
 
@@ -30,9 +31,5 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-### Currently Learning:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 <!-- This readme was inspired by Murillo Comino - https://github.com/onimur -->
