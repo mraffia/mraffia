@@ -30,8 +30,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Currently Learning:
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username={mraffia}&theme=blue-green)
-![Github Stats Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={mraffia}&theme=blue-green)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mraffia&theme=blue-green)
+![Github Stats Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraffia&theme=blue-green)
 
 <!-- This readme was inspired by Murillo Comino - https://github.com/onimur -->
