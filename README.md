@@ -7,7 +7,7 @@
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mraffia)
 
 - 👀 I am interested in Web Development
-- 🔭 My favourite projects completed: [Where's Waldo](https://github.com/drenchoman/express_members_only), [Blog API](https://blog-client-zeta.vercel.app/), and [CV Generator App](https://github.com/drenchoman/Delayed-Messaging)
+- 🔭 My favourite projects completed: [Where's Waldo](https://github.com/mraffia/wheres-waldo), [Blog API](https://github.com/mraffia/odin-blog), and [CV Generator App](https://github.com/mraffia/odin-cv-application)
 - 📫 How to reach me: mohraffia@gmail.com 
 
 ## Languages and Tools:
