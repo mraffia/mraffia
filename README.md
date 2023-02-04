@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mraffia/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mraffia)
 
-- 🔭 My favourite projects completed [Where's Waldo](https://github.com/drenchoman/express_members_only), [Blog API](https://blog-client-zeta.vercel.app/), and [CV Generator App](https://github.com/drenchoman/Delayed-Messaging)
+- 🔭 My favourite projects completed: [Where's Waldo](https://github.com/drenchoman/express_members_only), [Blog API](https://blog-client-zeta.vercel.app/), and [CV Generator App](https://github.com/drenchoman/Delayed-Messaging)
 - 📫 How to reach me: mohraffia@gmail.com 
 
 ## Languages and Tools:
@@ -34,8 +34,5 @@
 ### Currently Learning:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mraffia&theme=blue-green)
-![Github Stats Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraffia&theme=blue-green)
 
 <!-- This readme was inspired by Murillo Comino - https://github.com/onimur -->
