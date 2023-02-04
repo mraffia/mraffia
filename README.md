@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @mraffia
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning and reviewing Fullstack Web Development [React.js, Node.js, Express]
-- 📫 How to reach me: mohraffia@gmail.com or https://www.linkedin.com/in/mraffia/
-
 <!-- Your title -->
 
 # 👋 Hi, I'm Raffi, a Software Developer from Indonesia.
@@ -11,7 +6,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mraffia/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mraffia)
 
-&nbsp;
 - 🔭 My favourite projects completed [Where's Waldo](https://github.com/drenchoman/express_members_only), [Blog API](https://blog-client-zeta.vercel.app/), and [CV Generator App](https://github.com/drenchoman/Delayed-Messaging)
 - 📫 How to reach me: mohraffia@gmail.com 
 
@@ -37,7 +31,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   
-![Visitor Count](https://profile-counter.glitch.me/{mraffia}/count.svg)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username={mraffia}&theme=blue-green)
 ![Github Stats Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={mraffia}&theme=blue-green)
 
